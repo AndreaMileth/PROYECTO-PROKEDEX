@@ -1,0 +1,41 @@
+.titulo {
+  text-shadow: 3px 5px 5px;color: rgb(60, 9, 126);
+  text-align: center;
+  font-size: 40px;
+font-family:fantasy; 
+border-style: solid;
+border-color:rgb(0, 255, 21);
+border-radius: 5px;
+border-width: 5px;
+}
+
+.titulo{
+height: 800px;
+  background-image: url("portada.jpg");
+  background-size:cover;
+
+}
+.margen{
+
+  margin: 20px 20px 20px 20px;
+  background-color: darksalmon;
+}
+.parrafo{
+
+  text-align: center;
+  font-family: fantasy;
+  text-shadow: 3px 5px 5px; color: crimson;
+}
+
+.boton{
+  font-family: fantasy;
+background-color:aqua;
+padding: 5px;color:
+
+}
+
+#titulo2{
+text-align: center;
+font-family:fantasy;
+text-shadow: 3px 5px 5px ;color: rgb(182, 135, 7);
+}
