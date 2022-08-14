@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pag.pokemo</title>
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <h1 class="titulo">ALAN, BIENVENIDO A</h1>
+    <hr>
+    <center><font size="6"</font>
+        <h2 id="titulo2">¡ATRAPA LOS POKEMON!</h2>
+    <center><font size="6"</font>
+    <p class="parrafo">Hola Alan , bienvenido al juego de pokemon. <br> Aqui podras conocer las habilidades de todos los pokemon. <br> y ademas de eso podras atrapar a muchos pokemon.<br>
+        ¡ ATRAPA TODOS LOS QUE PUEDAS!</p>
+        <img src="pokemon56.png"
+<br>
+<a class="boton"
+<a href="prokedex.html">PLAY</a>
+
+</body>
+</html>
